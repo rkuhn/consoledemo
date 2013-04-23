@@ -1,0 +1,10 @@
+.target/
+.cache
+.classpath
+.project
+.settings/
+.worksheet/
+target/
+project/target/
+lib_managed/
+.*#

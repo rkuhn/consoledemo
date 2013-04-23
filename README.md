@@ -1,0 +1,1 @@
+This is a small sample project which may or may not be useful for demoing actor systems, creating and destroying them, etc. It will eat all your data (but even that is not guaranteed), use at your own risk.
